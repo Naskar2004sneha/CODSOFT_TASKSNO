@@ -20,14 +20,16 @@ This repository contains projects completed during the CODSOFT Data Analytics In
 - **Work:** Created bar charts, histograms, a pie chart, and a scatter plot to visualise income categories, gender, age distribution, education levels, marital status, and weekly working hours.
 - **Key Findings:** The visualisations showed the distribution of income categories, differences in income categories by gender and marital status, the distribution of age and education levels, and patterns in weekly working hours.
 - **Output:** `CODSOFT_Task3_Data_Visualization.ipynb`
-cleaned_adult_data.csv — cleaned dataset.
+- **Dataset used:** `cleaned_adult_data.csv` — cleaned dataset.
 
 Learning Outcomes
+Practised data cleaning, exploratory data analysis, and data visualization using Python, Pandas, Matplotlib, and Seaborn.
 
-Practised data inspection, missing-value handling, duplicate removal, data-type checking, and CSV export using Python and Pandas.
 
 ## Repository Files
 - `CODSOFT_Task1_Data_Cleaning.ipynb`
 - `Copy_of_CODSOFT_Task2_EDA.ipynb`
+- `CODSOFT_Task3_Data_Visualization.ipynb`
 - `cleaned_adult_data.csv`
 - `README.md`
+
